@@ -1,0 +1,55 @@
+[
+    {
+      "id": 1,
+      "type": "single",
+      "question": "What is the capital of France?",
+      "options": {
+        "A": "Berlin",
+        "B": "Madrid",
+        "C": "Paris",
+        "D": "Rome"
+      },
+      "answer": "C"
+    },
+    {
+      "id": 2,
+      "type": "multiple",
+      "question": "Which of the following are programming languages?",
+      "options": {
+        "A": "Python",
+        "B": "HTML",
+        "C": "JavaScript",
+        "D": "CSS"
+      },
+      "answers": ["A", "C"]
+    },
+    {
+      "id": 3,
+      "type": "truefalse",
+      "question": "The Earth is flat.",
+      "answer": "False"
+    },
+    {
+      "id": 4,
+      "type": "match",
+      "question": "Match the following countries with their capitals.",
+      "pairs": [
+        {"country": "USA", "capital": "Washington, D.C."},
+        {"country": "Germany", "capital": "Berlin"},
+        {"country": "Japan", "capital": "Tokyo"}
+      ]
+    },
+    {
+      "id": 5,
+      "type": "fill",
+      "question": "The chemical symbol for water is ____.",
+      "answer": "H2O"
+    },
+    {
+      "id": 6,
+      "type": "short",
+      "question": "Who wrote 'To Kill a Mockingbird'?",
+      "answer": "Harper Lee"
+    }
+  ]
+  
